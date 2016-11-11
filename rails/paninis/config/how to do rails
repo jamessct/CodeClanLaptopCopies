@@ -1,0 +1,8 @@
+rails new {name of project} - to make a new rails project
+
+rails s - starts server
+
+-added route in config/routes (get({'paninis' => 'paninis#index'}))
+-make controller with same name and make the action, call file same as route (paninis) with .html.erb extension
+-make a folder in the views folder with the same name
+-make aview file in the new view folder

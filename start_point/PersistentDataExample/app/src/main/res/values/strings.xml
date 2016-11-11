@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Persistent Data Example</string>
+    <string name="question">Put some text here</string>
+    <string name="save_text">Save</string>
+    <string name="saved_text">Saved text will be displayed here...</string>
+    <string name="say_hello">Hello</string>
+    <string name="menu_toast_hello">Hello</string>
+    <string name="say_hee_hee">Touch meh</string>
+    <string name="menu_another_string">HeeHee</string>
+</resources>

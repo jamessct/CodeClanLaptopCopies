@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digital KitKat</string>
+    <string name="title">KitKat</string>
+    <string name="question">Have a break?</string>
+    <string name="answer_title">Sponsored by Nestle(UK)</string>
+    <string name="button">Have a KitKat.</string>
+</resources>

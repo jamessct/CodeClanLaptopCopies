@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background-color: gold;
+}
+
+canvas {
+  border: 1px solid black;
+}
+
+button #up {
+  margin-top: 20px;
+}

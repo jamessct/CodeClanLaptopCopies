@@ -1,0 +1,63 @@
+/*body {
+  background-color: rgb(211, 73, 39);
+  margin: 0px;
+}*/
+
+/*#square {
+  background-color: blue;
+  height: 300px;
+}*/
+/*/*
+.square {
+  background-color: orange;
+  height: 200px;
+  width: 200px;
+  margin: 0 auto; /* centres the box thing */
+  /*position: relative; use this one normally*/
+ /* top: 35px;
+  left: 30px;
+  position: absolute;
+  bottom: 0;
+  right: 0;  positions the box based on margin distance 
+  top: 10px;
+  left: 0;
+  padding: 10px 20px 35px 54px;
+
+}*/
+/**/
+/*position: fixed ...... this is for making a bit of page not move(even with scrolling);
+
+Also, look up flexbox
+
+/*.circle {/*
+  display: inline-block; /* also, inline */
+  /*width: 20px;
+  height: 20px;
+  background-color: blue;*/
+  /*border-radius: 50%;*/ /* for a tastey circle */
+  /*margin: 15px;
+}*/
+
+.button {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 7px;
+  transition: all 2.5s;
+}
+
+/* hover, active, foam ..... to decorate your buttons (all pseudo-classes, like below) :);*/
+
+.button:hover {
+  /*background-color: white;
+*/  color: grey;
+animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+  0% { background-color: dodgerblue; }
+  50% { background-color: pink; }
+  100% { background-color: black; }
+}
+

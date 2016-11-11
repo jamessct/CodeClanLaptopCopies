@@ -1,0 +1,8 @@
+<h1>Welcome to PEPPERS</h1>
+<h3>Please take a look at our extensive lunch menu :)</h3>
+
+<ul>
+  <% @paninis.each do |panini| %>
+  <li><%= panini[:name] %></li>
+  <% end %>
+</ul>

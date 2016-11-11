@@ -1,0 +1,18 @@
+/*<!-- <style> body {background-color: green;} </style>
+<style> h1 {color: blue; text-align: center; font-family: "courier new";}  </style>
+<style> h5 {color: brown} </style> -->*/
+
+body {
+  background-image: url(https://storage.googleapis.com/imgfave/image_cache/1318558225370484.jpg);
+}
+
+h1 {
+  color: green;
+  text-align: center;
+  font-family: "courier new";
+}
+
+h5 {
+  color: brown;
+  font-family: "chiller";
+}
